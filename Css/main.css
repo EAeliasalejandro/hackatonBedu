@@ -1,7 +1,10 @@
 .fondo-naranja {
   width: 100%;
-  height: 650px;
+  height: 600px;
   background-color: #ff4632;
+  display: grid;
+  justify-content: center;
+  align-content: center;
 }
 
 /*# sourceMappingURL=main.css.map */
