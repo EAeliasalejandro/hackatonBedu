@@ -7,4 +7,16 @@
   align-content: center;
 }
 
+.container-naranja {
+  padding-left: 80px;
+}
+
+.boton {
+  background-color: #000000;
+  color: #FFFFFF;
+  border-radius: 10px;
+  height: 100px;
+  width: 90px;
+}
+
 /*# sourceMappingURL=main.css.map */
