@@ -1,0 +1,23 @@
+.section2 {
+  background-image: url("https://www.scdn.co/i/projectRamses/LiE_circles.svg");
+  background-color: #2d46b9;
+}
+
+.listen h2 {
+  color: #2d46b9;
+}
+.listen h4 {
+  color: #1ed760;
+}
+.listen h3 {
+  color: #1ed760;
+}
+.listen a {
+  background-color: #1ed760;
+  display: block;
+  text-align: center;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
