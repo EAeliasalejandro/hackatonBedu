@@ -1,3 +1,10 @@
-.nav-logo{
-    width: 50px;
+@import 'navbar';
+@import 'footer';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+
