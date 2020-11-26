@@ -13,13 +13,19 @@
     padding-left: 80px;
 }
 
-.boton{
+.btn {
+    border: 0;
+    align-self: center;
+    border-radius: 500px;
+    padding: 17px 48px;
     background-color: $color-boton;
     color: $color-blanco;
-    border-radius: 10px;
-    height: 100px;
-    width: 90px;
 }
+
+a {
+    text-decoration: none;
+}
+
 
 h1{
     font-weight: 500;
