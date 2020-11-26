@@ -2,27 +2,33 @@
 $section2-color-blue: #2d46b9;
 $section2-color-green: #1ed760;
 $section2-background-image: url("https://www.scdn.co/i/projectRamses/LiE_circles.svg");
+$section2-margin-bottom: 20px;
 
 .section2 {
-  // background-image: $section2-background-image;
+  background-image: $section2-background-image;
   background-color: $section2-color-blue;
+  text-align: center;
+  padding: 200px 50px;
 }
 
 .listen {
   h2 {
-    color: $section2-color-blue;
+    color: $section2-color-green;
+    margin-bottom: $section2-margin-bottom;
   }
   h4 {
     color: $section2-color-green;
+    margin-bottom: $section2-margin-bottom;
   }
   h3 {
     color: $section2-color-green;
+    margin-bottom: $section2-margin-bottom;
   }
   a {
     background-color: $section2-color-green;
     display: block;
     text-align: center;
-    border-radius: 50%;
-    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
   }
 }

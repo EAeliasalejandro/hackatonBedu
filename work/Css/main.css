@@ -1,24 +1,31 @@
 .section2 {
   background-image: url("https://www.scdn.co/i/projectRamses/LiE_circles.svg");
   background-color: #2d46b9;
+  text-align: center;
+  padding: 200px 50px;
 }
 
 .listen h2 {
-  color: #2d46b9;
+  color: #1ed760;
+  margin-bottom: 20px;
 }
 .listen h4 {
   color: #1ed760;
+  margin-bottom: 20px;
 }
 .listen h3 {
   color: #1ed760;
+  margin-bottom: 20px;
 }
 .listen a {
   background-color: #1ed760;
   display: block;
   text-align: center;
-  border-radius: 50%;
+  border-radius: 10px;
   margin-top: 20px;
-  
+  padding: 10px;
+}
+
 .nav-logo {
   width: 50px;
 }
